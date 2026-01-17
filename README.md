@@ -11,7 +11,7 @@ We compare **sentiment-based baselines** (VADER, FinBERT sentiment) vs **direct 
 ## What’s inside this repo
 
 - **Report:** [`report/Final_Report_CS6120.pdf`](report/Final_Report_CS6120.pdf)  
-- **Notebook:** [`notebook/NLP_Project_Colab.ipynb`](notebook/NLP_Project_Colab.ipynb)
+- **Notebook:** [`notebook/NLP_Project_Colab.ipynb`](notebook/NLP_Project.ipynb)
 
 ---
 
